@@ -2,6 +2,10 @@
 
 AI-powered on-chain dispute resolution with Equivalence Principle and Optimistic Democracy.
 
+## 🌐 Live Demo
+
+👉 https://genlayer-justice.lovable.app/
+
 ![React](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-blue) ![Vite](https://img.shields.io/badge/Vite-5-purple)
 
 ---
